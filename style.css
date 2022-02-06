@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: 0;
+}
+body{
+    background-color: #FFFFFF;;
+}
+
+.Login{
+    font-size: 32px;
+    margin-top: 128px;
+    margin-left: 16px;
+    height: 41px;
+}
+.texttop{
+    display: block;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 22px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 12px;
+}
+.email{
+    display: block;
+    font-size: 16px;
+    color: #F2F2F7;
+    width: 343px;
+    height: 38px;
+    border-radius: 6px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 102px;
+
+
+}
+.password{
+    display: block;
+    font-size: 16px;
+    color: #F2F2F7;
+    width: 343px;
+    height: 38px;
+    border-radius: 6px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 12px;
+}
+.ForgotPassword{
+    display: block;
+    font-size: 22px;
+    color: #007AFF;
+    text-align: right;
+    margin-top: 17px;
+    margin-right: 16px;
+
+
+}
+button{
+    display: block;
+    margin: 0 auto;
+    background-color: #000000F0;
+    width:343px;
+    height: 48px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: #FFFFFF;
+    margin-top: 20px;
+
+
+
+}
+.signup{
+    display:flex;
+    margin-top: 204px;
+    font-weight: 600px;
+    font-size: 16px;
+    margin-left: 75px;
+    margin-right: 75px;
+    
+
+
+}
+.signupone{
+    color: rgba(0, 0, 0, 0.51);
+}
+.linksignup{
+  color: #007AFF;
+}
+
+.email::placeholder{
+    padding-left: 14px;
+    color:929292;
+
+}
+.password::placeholder{
+    padding-left: 14px;
+    color:929292;
+
+}
