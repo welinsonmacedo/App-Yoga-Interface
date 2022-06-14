@@ -6,6 +6,15 @@
 body{
     background-color: #FFFFFF;;
 }
+#container{
+    width: 380px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d6c8c8f0;
+    border-radius: 10px;
+}
 
 .Login{
     font-size: 32px;
